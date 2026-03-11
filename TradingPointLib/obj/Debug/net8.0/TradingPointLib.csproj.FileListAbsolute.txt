@@ -1,0 +1,12 @@
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\bin\Debug\net8.0\TradingPointLib.deps.json
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\bin\Debug\net8.0\TradingPointLib.dll
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\bin\Debug\net8.0\TradingPointLib.pdb
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\obj\Debug\net8.0\TradingPointLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\obj\Debug\net8.0\TradingPointLib.AssemblyInfoInputs.cache
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\obj\Debug\net8.0\TradingPointLib.AssemblyInfo.cs
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\obj\Debug\net8.0\TradingPointLib.csproj.CoreCompileInputs.cache
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\obj\Debug\net8.0\TradingPointLib.sourcelink.json
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\obj\Debug\net8.0\TradingPointLib.dll
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\obj\Debug\net8.0\refint\TradingPointLib.dll
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\obj\Debug\net8.0\TradingPointLib.pdb
+C:\Users\alina\Documents\ИСиТ\6 семестр\ИТ\task-3\TradingPointLib\obj\Debug\net8.0\ref\TradingPointLib.dll

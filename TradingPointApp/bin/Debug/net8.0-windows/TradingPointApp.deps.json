@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TradingPointApp/1.0.0": {
+        "dependencies": {
+          "TradingPointLib": "1.0.0"
+        },
+        "runtime": {
+          "TradingPointApp.dll": {}
+        }
+      },
+      "TradingPointLib/1.0.0": {
+        "runtime": {
+          "TradingPointLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TradingPointApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingPointLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
